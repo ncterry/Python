@@ -1,4 +1,7 @@
 
+#Just a simple example of creating an application with modules
+
+
 ### To import the shipping module
 #import ecommerce2.shipping
 

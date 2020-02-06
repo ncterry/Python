@@ -5,7 +5,7 @@ import string
 # call:
 # randomString(100) = 100char
 def randomString(stringLength=10): # randomString() = default 10;
-
+    #Function to return a string of random lowercase a-z
     """Generate a random string of fixed length = ex. dkwaloeckw"""
     letters = string.ascii_lowercase
     return ''.join(random.choice(letters) for i in range(stringLength))

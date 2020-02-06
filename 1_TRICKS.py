@@ -1,68 +1,7 @@
-
-newline = "\n---------------"
-print(newline + "Trick 1") # ============
-print("You can use underscores in numbers, in place of commas."
-      "\nThis will not affect an integer:  10_000_000_000")
-
-n1 = 10_000_000_000
-n2 = 1_000_000
-print(f'10_000_000_000 '
-      f'\n+    1_000_000 \nTotal = {n1 + n2}')
-print(f'\nAND you can add commas to print:')
-print("\'{Total:,}\' = ")
-print(f'{(n1 + n2):,}')
-'''
-10_000_000_000 
-+    1_000_000 
-Total = 10001000000
-
-AND you can add commas to print:
-'{Total:,}' = 
-10,001,000,000
-
-'''
-# ===========================
-# ===========================
-# ===========================
-# ===========================
-# ===========================
-# ===========================
-print(newline + "Trick 2") # ============
-print("Change if/else condition into 1 line")
-condition = True
-# Normal Setup
-if condition:
-    x = 1
-else:
-    x = 0
-# -----------------------
-# Single line
-# X=1 if condition is true, else x=0
-x = 1 if condition else 0
-print(f'x = {x}')
-# ===========================
-# ===========================
-# ===========================
-# ===========================
-# ===========================
-# ===========================
-print(newline + "Trick 3") # ============
-print("Context Managers - Google for more info")
-print("Function open/close files.")
-# Normal
-# fyle = open('TRICKS.txt', 'r')
-# file_contents = fyle.read()
-# fyle.close()
-# -------------------------
-# Faster Function
-# Opens file, then auto-closes after loop.
-with open("TRICKS.txt", 'r') as f:
-    file_contents = f.read()
+# Run this file in PyCharm or etc.
+# Prints well, an is easy to read.
 
 
-words = file_contents.split(' ')
-word_count = len(words)
-print(f'Word count = {word_count}')
 
 # ===========================
 # ===========================
@@ -70,23 +9,9 @@ print(f'Word count = {word_count}')
 # ===========================
 # ===========================
 # ===========================
-print(newline + "Trick 4") # ============
-print("Enumerator count")
-names = ['Corey', 'Chris', 'Dave', 'Travis']
-# Normal:
-# Start with index, and increase each loop.
-# index=0  --> index += 1      Works but is sloppy
-# Better:
-for index, name in enumerate(names, start=1):
-    print(index, name)
-'''
-1 Corey
-2 Chris
-3 Dave
-4 Travis
-'''
-
 # ===========================
+# ===========================
+
 # ===========================
 # ===========================
 # ===========================
