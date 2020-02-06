@@ -3,92 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="25783dec-1c33-4345-9829-b7c33ec03621" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_TRICKS.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_TRICKS.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/File_Read_from/.idea/Pull_from_File.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/File_Read_from/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/File_Read_from/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/File_Read_from/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/File_Read_from/Pull_from_File.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/File_Read_from/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/2Lists_SameTime/.idea/2Lists_SameTime.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/2Lists_SameTime/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/2Lists_SameTime/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/2Lists_SameTime/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/2Lists_SameTime/2Lists_SameTime.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Lists.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Lists/.idea/Lists.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Lists/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Lists/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Lists/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Lists/Lists.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Lists_basics.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Print_a_List/.idea/Print_a_List.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Print_a_List/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Print_a_List/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Print_a_List/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Print_a_List/Print_a_List.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Reverse_A_List/.idea/Reverse_A_List.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Reverse_A_List/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Reverse_A_List/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Reverse_A_List/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Reverse_A_List/Reverse_A_List.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Search_List/.idea/Search_List.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Search_List/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Search_List/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Search_List/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Search_List/Search List.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Slicing_Lists_And_Strings/.idea/Slicing_Lists_And_Strings.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Slicing_Lists_And_Strings/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Slicing_Lists_And_Strings/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Slicing_Lists_And_Strings/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Slicing_Lists_And_Strings/Slicing_Lists_And_Strings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Sort_A_List/.idea/Sort_A_List.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Sort_A_List/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Sort_A_List/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Sort_A_List/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Sort_A_List/Sort_A_List.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Sort_Lists_Tuples_Objects/.idea/Sort_Lists_Tuples_Objects.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Sort_Lists_Tuples_Objects/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Sort_Lists_Tuples_Objects/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Sort_Lists_Tuples_Objects/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/LISTS MAIN/Sort_Lists_Tuples_Objects/Sort_Lists_Tuples_Objects.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NUMBERS MAIN/Decimal_Places/.idea/Decimal_Places.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NUMBERS MAIN/Decimal_Places/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NUMBERS MAIN/Decimal_Places/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NUMBERS MAIN/Decimal_Places/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NUMBERS MAIN/Decimal_Places/Decimal_Places.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NUMBERS MAIN/Numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NUMBERS MAIN/Numbers/.idea/Numbers.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NUMBERS MAIN/Numbers/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NUMBERS MAIN/Numbers/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NUMBERS MAIN/Numbers/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NUMBERS MAIN/Numbers/Numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NUMBERS MAIN/UseSpecific_NumberOf_Digits/.idea/UseSpecific_NumberOf_Digits.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NUMBERS MAIN/UseSpecific_NumberOf_Digits/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NUMBERS MAIN/UseSpecific_NumberOf_Digits/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NUMBERS MAIN/UseSpecific_NumberOf_Digits/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/NUMBERS MAIN/UseSpecific_NumberOf_Digits/UseSpecific_NumberOf_Digits.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Number_Grid.py" beforeDir="false" afterPath="$PROJECT_DIR$/numbers_Grid.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Number_Guess_program.py" beforeDir="false" afterPath="$PROJECT_DIR$/numbers_guess_program.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TRICKS.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tips_Tricks/.idea/Tips_Tricks.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tips_Tricks/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tips_Tricks/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tips_Tricks/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tips_Tricks/Tips_Tricks.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tips_Tricks/pimpin-aint-easy.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Try_Except-Exceptions/.idea/Try_Except-Exceptions.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Try_Except-Exceptions/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Try_Except-Exceptions/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Try_Except-Exceptions/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Try_Except-Exceptions/Try Except.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Try_Except-Exceptions/Try_Except-Exceptions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Try_Except-Exceptions/test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Write_file.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce2/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce2/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_CreateDummyData.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_CreateDummyData.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pygLatin.py" beforeDir="false" afterPath="$PROJECT_DIR$/pygLatin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tryExcept.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_HelloPython.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_HelloPython.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Filter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_Python Basics.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1_HelloPython.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/list_zip.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,7 +40,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
-  <component name="RunManager" selected="Python.list_zip">
+  <component name="RunManager" selected="Python.1_HelloPython">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -141,6 +59,27 @@
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <method />
+    </configuration>
+    <configuration name="1_HelloPython" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_HelloPython.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
     </configuration>
     <configuration name="Try_Except-Exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
@@ -226,34 +165,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="lists_enumerate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists_enumerate.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1_HelloPython" />
         <item itemvalue="Python.list_zip" />
         <item itemvalue="Python.file_ReadFrom" />
         <item itemvalue="Python.UseSpecific_NumberOf_Digits" />
         <item itemvalue="Python.Try_Except-Exceptions" />
-        <item itemvalue="Python.lists_enumerate" />
       </list>
     </recent_temporary>
   </component>
@@ -271,22 +189,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1458" height="259" key="GridCell.Tab.0.bottom" timestamp="1581017783538">
+    <state width="1458" height="289" key="GridCell.Tab.0.bottom" timestamp="1581032390249">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1458" height="259" key="GridCell.Tab.0.bottom/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581017783538" />
-    <state width="1458" height="259" key="GridCell.Tab.0.center" timestamp="1581017783538">
+    <state width="1458" height="289" key="GridCell.Tab.0.bottom/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581032390249" />
+    <state width="1458" height="289" key="GridCell.Tab.0.center" timestamp="1581032390249">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1458" height="259" key="GridCell.Tab.0.center/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581017783538" />
-    <state width="1458" height="259" key="GridCell.Tab.0.left" timestamp="1581017783537">
+    <state width="1458" height="289" key="GridCell.Tab.0.center/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581032390249" />
+    <state width="1458" height="289" key="GridCell.Tab.0.left" timestamp="1581032390249">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1458" height="259" key="GridCell.Tab.0.left/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581017783537" />
-    <state width="1458" height="259" key="GridCell.Tab.0.right" timestamp="1581017783538">
+    <state width="1458" height="289" key="GridCell.Tab.0.left/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581032390249" />
+    <state width="1458" height="289" key="GridCell.Tab.0.right" timestamp="1581032390249">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1458" height="259" key="GridCell.Tab.0.right/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581017783538" />
+    <state width="1458" height="289" key="GridCell.Tab.0.right/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581032390249" />
     <state x="301" y="293" key="SettingsEditor" timestamp="1580946725349">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
