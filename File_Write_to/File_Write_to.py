@@ -13,7 +13,7 @@ print('\t We just wrote   Test back to back.  TestTest')
 
 
 
-print('\n\n We wrote Test twice but used seek to start after char 2. = ')
+print('\n\n We wrote Test twice but used seek to start after char 2. =   TeTest')
 with open('test2.txt', 'w') as f:
     f.write('Test')
     f.seek(2)
@@ -21,7 +21,7 @@ with open('test2.txt', 'w') as f:
 # Next 2 lines are just to write the line we just wrote in the file.
 with open('test2.txt', 'r') as f:
     f_contents = f.readline()
-    print('\t', f_contents)
+    print('\t', f_contents) # TeTest
 
 # =================================================================
 '''We are going to read from one file and write it to another. A simple copy
