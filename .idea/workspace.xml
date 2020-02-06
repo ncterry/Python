@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25783dec-1c33-4345-9829-b7c33ec03621" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/File_Write_to/File_Write_to.py" beforeDir="false" afterPath="$PROJECT_DIR$/File_Write_to/File_Write_to.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/file_CreateDummyData.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_CreateDummyData.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

@@ -28,4 +28,19 @@ with open('file_dummyData.txt', 'w') as f:          # Open/create dummy file
                 ":" +
                 randomString(random.choice(pwordSize)))           # random crypt-pass, 10-20
 
+'''EX
+00--haxlsgbsdy:@gmail.com:lbdfezhpaf
+00--gstawqmmtn:@ucdenver.edu:emokwjzmksgbjeprfdxv
+00--kjqzzabkcl:@yahoo.com:dujkghqzkburhnexjjbi
+00--kircqkftrj:@aol.com:jxfmalzlktbqpw
+00--fmwasncunb:@zoho.com:hylapzjxlggs
+00--pshdbchsgs:@aol.com:avcqhmmjutfv
+00--qanvivoose:@outlook.com:wzxwzngjblqwqwz
+00--erfzlxgvan:@yahoo.com:lzacdizwxsuzoguyausf
+00--pwfgrbpeby:@zoho.com:furnbdlldojq
+00--wdxnosaape:@gmail.com:gbzotwllssjitezpst
+00--xcdjccbjkx:@gmail.com:arwomviulxlqsfegfnn
+00--rvplrmswfa:@zoho.com:hhhumcxwaxqjojhex
+00--mbwcptiuhx:@aol.com:jndxhtnkwvnkzgskobwv
+'''
 
