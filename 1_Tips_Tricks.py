@@ -34,7 +34,7 @@ print(" age = ages['Dick'] will not work. No 'Dick' in dictionary. ")
 if 'Dick' in ages:
     age = ages['Dick']
 else:
-    age = 'Unkown'
+    age = 'Unknown'
 print('Dick is %s years old.' % age)
 
 print('\n---------------')
@@ -111,5 +111,3 @@ print('Done!')
 
 print('\n\n===========================================================')
 print('')
-
-

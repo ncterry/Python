@@ -1,0 +1,37 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>HTTP</title>
+</head><body>HTTP = Hyper Text Transfer Protocol<br/>
+designed to enable communications between clients and servers.<br/>
+- Media independent - any type of data can be sent with HTTP as long as sender/reciever can process.<br/>
+- Stateless - Server/client are aware of each other only when a data transaction is taking place.<br/>
+------ Neither the client of server retains information.<br/>
+<br/>
+HTTP is not secure. Clear text usually served on port 80<br/>
+<br/>
+HTTPS = layering HTTP with SSL or TLS<br/>
+----- Usually port 443<br/>
+----- Creates a secure channel over an unsecure network. <br/>
+<br/>
+<br/>
+HTTP Methods (1.1 has the 3 methods from 1.0 as well.) <ul><li>HTTP 1.0 - GET, POST, HEAD</li>
+<li style="list-style-type: none"><ul><li>Head - only return headers and status code, but without content.</li>
+<li>Get - standard method used to retrieve resouce content given a URI</li>
+<li>Post - used to submit content to server, such as forms, data, files, etc.</li>
+</ul>
+</li>
+<li>HTTP 1.1 - OPTIONS, PUT, DELETE, TRACE, PATCH, CONNECT</li>
+<li style="list-style-type: none"><ul><li>Options - provides communication options for target</li>
+<li>Put - request to store a resource given by the URI</li>
+<li>Delete - Remove all representations of the target resource given by the URI</li>
+<li>Echos the recieved request so that the client can see what changes have been made by intermediaries. </li>
+<li>Patch - apply partial modificaitons to a resource </li>
+<li>Connect - establish a tunnel to the server, identified by the given URI (HTTPS)</li>
+<li>&nbsp;</li>
+</ul>
+</li>
+</ul>
+<br/>
+</body></html>

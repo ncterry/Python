@@ -3,10 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="25783dec-1c33-4345-9829-b7c33ec03621" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_HelloPython.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_HelloPython.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Filter.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_Python Basics.txt" beforeDir="false" afterPath="$PROJECT_DIR$/1_HelloPython.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/list_zip.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Tips_Tricks.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Tips_Tricks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_CheatSheet.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ConvertPyToExe.py" beforeDir="false" afterPath="$PROJECT_DIR$/ConvertPyToExe.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,9 +37,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Python.1_HelloPython">
+  <component name="RunManager" selected="Python.sort_list">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,7 +80,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Try_Except-Exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TestQuestions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -89,53 +88,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Try_Except-Exceptions" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Try_Except-Exceptions/Try_Except-Exceptions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="UseSpecific_NumberOf_Digits" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NUMBERS MAIN" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NUMBERS MAIN/UseSpecific_NumberOf_Digits.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="file_ReadFrom" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/File_Read_from" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/File_Read_from/file_ReadFrom.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestQuestions.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,13 +122,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="sort_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/INTERVIEW MAIN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/INTERVIEW MAIN/sort_list.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="spreadsheets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spreadsheets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.sort_list" />
+        <item itemvalue="Python.TestQuestions" />
+        <item itemvalue="Python.spreadsheets" />
         <item itemvalue="Python.1_HelloPython" />
         <item itemvalue="Python.list_zip" />
-        <item itemvalue="Python.file_ReadFrom" />
-        <item itemvalue="Python.UseSpecific_NumberOf_Digits" />
-        <item itemvalue="Python.Try_Except-Exceptions" />
       </list>
     </recent_temporary>
   </component>
@@ -189,25 +188,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1458" height="289" key="GridCell.Tab.0.bottom" timestamp="1581032390249">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1419" height="153" key="GridCell.Tab.0.bottom" timestamp="1581988337855">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1458" height="289" key="GridCell.Tab.0.bottom/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581032390249" />
-    <state width="1458" height="289" key="GridCell.Tab.0.center" timestamp="1581032390249">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1419" height="153" key="GridCell.Tab.0.bottom/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1581988337855" />
+    <state width="1458" height="174" key="GridCell.Tab.0.bottom/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581055568833" />
+    <state width="1419" height="153" key="GridCell.Tab.0.center" timestamp="1581988337854">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1458" height="289" key="GridCell.Tab.0.center/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581032390249" />
-    <state width="1458" height="289" key="GridCell.Tab.0.left" timestamp="1581032390249">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1419" height="153" key="GridCell.Tab.0.center/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1581988337854" />
+    <state width="1458" height="174" key="GridCell.Tab.0.center/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581055568832" />
+    <state width="1419" height="153" key="GridCell.Tab.0.left" timestamp="1581988337853">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1458" height="289" key="GridCell.Tab.0.left/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581032390249" />
-    <state width="1458" height="289" key="GridCell.Tab.0.right" timestamp="1581032390249">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1419" height="153" key="GridCell.Tab.0.left/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1581988337853" />
+    <state width="1458" height="174" key="GridCell.Tab.0.left/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581055568831" />
+    <state width="1419" height="153" key="GridCell.Tab.0.right" timestamp="1581988337854">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1458" height="289" key="GridCell.Tab.0.right/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581032390249" />
-    <state x="301" y="293" key="SettingsEditor" timestamp="1580946725349">
-      <screen x="0" y="23" width="1680" height="1027" />
+    <state width="1419" height="153" key="GridCell.Tab.0.right/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1581988337854" />
+    <state width="1458" height="174" key="GridCell.Tab.0.right/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581055568832" />
+    <state x="258" y="178" key="SettingsEditor" timestamp="1581988335174">
+      <screen x="0" y="23" width="1440" height="877" />
     </state>
+    <state x="258" y="178" key="SettingsEditor/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1581988335174" />
     <state x="301" y="293" key="SettingsEditor/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1580946725349" />
     <state x="583" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580951175142">
       <screen x="0" y="23" width="1680" height="1027" />

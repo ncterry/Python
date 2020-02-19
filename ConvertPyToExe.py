@@ -21,5 +21,5 @@ Drag that 'main' from 'dist' to the other primary folder.
 There should be nothing else in 'dist', you should be able to delete it.
 
 
-If you have a large program, and a simple computer, it can take a decent about of time to actaully execute.
+If you have a large program, and a simple computer, it can take a decent amount of time to actaully execute.
 '''
