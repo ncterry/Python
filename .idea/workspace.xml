@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25783dec-1c33-4345-9829-b7c33ec03621" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1_Tips_Tricks.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Tips_Tricks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_CheatSheet.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/ConvertPyToExe.py" beforeDir="false" afterPath="$PROJECT_DIR$/ConvertPyToExe.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +37,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
-  <component name="RunManager" selected="Python.sort_list">
+  <component name="RunManager" selected="Python.findDuplicates">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="list_zip" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="findDuplicates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/INTERVIEW MAIN" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list_zip.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/INTERVIEW MAIN/findDuplicates.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -166,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.findDuplicates" />
         <item itemvalue="Python.sort_list" />
         <item itemvalue="Python.TestQuestions" />
         <item itemvalue="Python.spreadsheets" />
         <item itemvalue="Python.1_HelloPython" />
-        <item itemvalue="Python.list_zip" />
       </list>
     </recent_temporary>
   </component>
@@ -188,30 +186,34 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="153" key="GridCell.Tab.0.bottom" timestamp="1581988337855">
+    <state width="1419" height="153" key="GridCell.Tab.0.bottom" timestamp="1582094165742">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="153" key="GridCell.Tab.0.bottom/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1581988337855" />
+    <state width="1419" height="153" key="GridCell.Tab.0.bottom/-57.-1027.1680.1027/0.23.1440.877@-57.-1027.1680.1027" timestamp="1582092998364" />
+    <state width="1419" height="153" key="GridCell.Tab.0.bottom/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582094165742" />
     <state width="1458" height="174" key="GridCell.Tab.0.bottom/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581055568833" />
-    <state width="1419" height="153" key="GridCell.Tab.0.center" timestamp="1581988337854">
+    <state width="1419" height="153" key="GridCell.Tab.0.center" timestamp="1582094165742">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="153" key="GridCell.Tab.0.center/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1581988337854" />
+    <state width="1419" height="153" key="GridCell.Tab.0.center/-57.-1027.1680.1027/0.23.1440.877@-57.-1027.1680.1027" timestamp="1582092998363" />
+    <state width="1419" height="153" key="GridCell.Tab.0.center/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582094165742" />
     <state width="1458" height="174" key="GridCell.Tab.0.center/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581055568832" />
-    <state width="1419" height="153" key="GridCell.Tab.0.left" timestamp="1581988337853">
+    <state width="1419" height="153" key="GridCell.Tab.0.left" timestamp="1582094165741">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="153" key="GridCell.Tab.0.left/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1581988337853" />
+    <state width="1419" height="153" key="GridCell.Tab.0.left/-57.-1027.1680.1027/0.23.1440.877@-57.-1027.1680.1027" timestamp="1582092998362" />
+    <state width="1419" height="153" key="GridCell.Tab.0.left/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582094165741" />
     <state width="1458" height="174" key="GridCell.Tab.0.left/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581055568831" />
-    <state width="1419" height="153" key="GridCell.Tab.0.right" timestamp="1581988337854">
+    <state width="1419" height="153" key="GridCell.Tab.0.right" timestamp="1582094165742">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="153" key="GridCell.Tab.0.right/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1581988337854" />
+    <state width="1419" height="153" key="GridCell.Tab.0.right/-57.-1027.1680.1027/0.23.1440.877@-57.-1027.1680.1027" timestamp="1582092998363" />
+    <state width="1419" height="153" key="GridCell.Tab.0.right/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582094165742" />
     <state width="1458" height="174" key="GridCell.Tab.0.right/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581055568832" />
-    <state x="258" y="178" key="SettingsEditor" timestamp="1581988335174">
+    <state x="258" y="178" key="SettingsEditor" timestamp="1582081173302">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state x="258" y="178" key="SettingsEditor/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1581988335174" />
+    <state x="258" y="178" key="SettingsEditor/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582081173302" />
     <state x="301" y="293" key="SettingsEditor/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1580946725349" />
     <state x="583" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580951175142">
       <screen x="0" y="23" width="1680" height="1027" />
