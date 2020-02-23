@@ -37,9 +37,10 @@ def count_duplicates(list=[], duplicates=[]):
 # We can return the duplicates, and count how many times that they were duplciated
 def total_duplicates(list=[], duplicates=[], dicts={}):
     for n in list:
+        # Count #-of-n in list.  Don't add to duplicate-list more than once.
         if list.count(n) > 1 and duplicates.count(n) == 0:
             duplicates.append(n)
-            dicts[n] = list.count(n)
+            dicts[n] = list.count(n)   # Ex. dict["o"] = 4      o : 4,   i : 4,   h : 8
     return dicts
 
 

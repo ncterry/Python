@@ -2,8 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25783dec-1c33-4345-9829-b7c33ec03621" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_FirstRead/.idea/Book_FirstRead.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_FirstRead/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_FirstRead/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_FirstRead/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_FirstRead/Book_chap1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_FirstRead/Chapter1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Book_FirstRead/Functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/INTERVIEW MAIN/findDuplicates.py" beforeDir="false" afterPath="$PROJECT_DIR$/INTERVIEW MAIN/findDuplicates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PortQuiz.py" beforeDir="false" afterPath="$PROJECT_DIR$/PortQuiz.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,9 +43,9 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.customizations" />
   </component>
-  <component name="RunManager" selected="Python.findDuplicates">
+  <component name="RunManager" selected="Python.portscan3">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,7 +65,7 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <configuration name="1_HelloPython" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="PortQuiz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +77,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_HelloPython.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/PortQuiz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,28 +86,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TestQuestions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TestQuestions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="findDuplicates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,7 +98,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/INTERVIEW MAIN/findDuplicates.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/INTERVIEW MAIN/palindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,28 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sort_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/INTERVIEW MAIN" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/INTERVIEW MAIN/sort_list.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="spreadsheets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="portscan1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,7 +119,49 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spreadsheets.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/portscan1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="portscan2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/portscan2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="portscan3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/portscan3.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.findDuplicates" />
-        <item itemvalue="Python.sort_list" />
-        <item itemvalue="Python.TestQuestions" />
-        <item itemvalue="Python.spreadsheets" />
-        <item itemvalue="Python.1_HelloPython" />
+        <item itemvalue="Python.portscan3" />
+        <item itemvalue="Python.PortQuiz" />
+        <item itemvalue="Python.portscan2" />
+        <item itemvalue="Python.portscan1" />
+        <item itemvalue="Python.palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -186,38 +194,48 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="153" key="GridCell.Tab.0.bottom" timestamp="1582094165742">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="890" height="278" key="GridCell.Tab.0.bottom" timestamp="1582327840488">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1419" height="153" key="GridCell.Tab.0.bottom/-57.-1027.1680.1027/0.23.1440.877@-57.-1027.1680.1027" timestamp="1582092998364" />
-    <state width="1419" height="153" key="GridCell.Tab.0.bottom/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582094165742" />
+    <state width="1419" height="232" key="GridCell.Tab.0.bottom/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582314056923" />
     <state width="1458" height="174" key="GridCell.Tab.0.bottom/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581055568833" />
-    <state width="1419" height="153" key="GridCell.Tab.0.center" timestamp="1582094165742">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="890" height="278" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1582327840488" />
+    <state width="890" height="278" key="GridCell.Tab.0.center" timestamp="1582327840487">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1419" height="153" key="GridCell.Tab.0.center/-57.-1027.1680.1027/0.23.1440.877@-57.-1027.1680.1027" timestamp="1582092998363" />
-    <state width="1419" height="153" key="GridCell.Tab.0.center/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582094165742" />
+    <state width="1419" height="232" key="GridCell.Tab.0.center/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582314056923" />
     <state width="1458" height="174" key="GridCell.Tab.0.center/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581055568832" />
-    <state width="1419" height="153" key="GridCell.Tab.0.left" timestamp="1582094165741">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="890" height="278" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1582327840487" />
+    <state width="890" height="278" key="GridCell.Tab.0.left" timestamp="1582327840487">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1419" height="153" key="GridCell.Tab.0.left/-57.-1027.1680.1027/0.23.1440.877@-57.-1027.1680.1027" timestamp="1582092998362" />
-    <state width="1419" height="153" key="GridCell.Tab.0.left/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582094165741" />
+    <state width="1419" height="232" key="GridCell.Tab.0.left/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582314056923" />
     <state width="1458" height="174" key="GridCell.Tab.0.left/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581055568831" />
-    <state width="1419" height="153" key="GridCell.Tab.0.right" timestamp="1582094165742">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="890" height="278" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1582327840487" />
+    <state width="890" height="278" key="GridCell.Tab.0.right" timestamp="1582327840488">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1419" height="153" key="GridCell.Tab.0.right/-57.-1027.1680.1027/0.23.1440.877@-57.-1027.1680.1027" timestamp="1582092998363" />
-    <state width="1419" height="153" key="GridCell.Tab.0.right/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582094165742" />
+    <state width="1419" height="232" key="GridCell.Tab.0.right/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582314056923" />
     <state width="1458" height="174" key="GridCell.Tab.0.right/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581055568832" />
-    <state x="258" y="178" key="SettingsEditor" timestamp="1582081173302">
-      <screen x="0" y="23" width="1440" height="877" />
+    <state width="890" height="278" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1582327840488" />
+    <state x="301" y="205" key="SettingsEditor" timestamp="1582324741956">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="258" y="178" key="SettingsEditor/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582081173302" />
+    <state x="258" y="178" key="SettingsEditor/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582313599992" />
     <state x="301" y="293" key="SettingsEditor/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1580946725349" />
-    <state x="583" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580951175142">
+    <state x="301" y="205" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1582324741956" />
+    <state x="583" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582412671454">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="583" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1580951175142" />
+    <state x="583" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1582412671454" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1582178221457">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582178221457" />
   </component>
 </project>
