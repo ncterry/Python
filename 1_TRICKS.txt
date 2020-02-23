@@ -51,3 +51,4 @@ EVEN more simple:
     from ecommerce2 import shipping
 Then everything in shipping.py will come along. Then:
     shipping.calc_shipping()
+d

@@ -3,7 +3,6 @@
 
 
 
-
 print('\n\ntip 3===========================================================')
 print(' We want to swap two variables')
 x = 10

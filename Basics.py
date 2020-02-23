@@ -16,10 +16,9 @@ message = first + " fucking " + last + " is a coder."
 print(message)
 msg = f'{first} fucking {last} is a coder' # Formatted message, more efficient.
 print(msg)
-# ===================================
-# ===================================
+# ==================================
 print(newline)
-print("Basic String Stuff")
+print("Basic String Stuff ")
 print("Show the length of the string.")
 print(message)
 print("Length = " + str(len(message)))
@@ -175,4 +174,3 @@ print(newline)
 # ===================================
 
 # ===================================
-

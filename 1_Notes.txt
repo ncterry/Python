@@ -7,3 +7,4 @@ We have our interpreter for this course set to Python 3.7
 
 In project, File --> New --> Python File
     Named:  App
+    

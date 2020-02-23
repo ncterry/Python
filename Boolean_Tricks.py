@@ -1,6 +1,6 @@
 
 
-'''----------------------------------------------------------------------------
+'''---------------------------------------------------------------------------
 boolean
 
 remember you can set a boolean just based on a result
@@ -21,6 +21,7 @@ False or False is False		0+0=0
 
 Not True is False
 Not False is True
+# XXX: 
 '''
 
 bool_one =  2**3 == 16

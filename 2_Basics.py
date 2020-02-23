@@ -15,7 +15,6 @@ square(10)
 square(6)
 
 
-
 # =================================================
 print('\n\n222 A function using two parameters.')
 def power(base, exponent):  # Add your parameters here!
