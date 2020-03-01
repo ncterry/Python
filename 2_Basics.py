@@ -1,6 +1,7 @@
 
 
 # Functions
+print('')
 print('\n111 A simple function using one parameter')
 def square(n):
     """Returns the square of a number."""

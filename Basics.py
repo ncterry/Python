@@ -1,5 +1,7 @@
 
 newline = "\n-------------------"
+print('')
+
 # ===================================
 name = "Jennifer"
 print(name[:])      # Print beginning to end

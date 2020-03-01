@@ -21,8 +21,9 @@ False or False is False		0+0=0
 
 Not True is False
 Not False is True
-# XXX: 
+# XXX:
 '''
+print('')
 
 bool_one =  2**3 == 16
 print('\n The equation 2**3 == 16 doesn\'t work so it is:   ',bool_one)

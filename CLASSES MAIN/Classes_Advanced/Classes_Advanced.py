@@ -6,7 +6,7 @@ import os
 # -------------------------------------------------------------
 # Created an employee class, with a constructor that requires first, last and pay
 '''Note. For a standard class, 'self' will pass the object into the class
-but with the classmethod, we are using the cls. There is also a static method
+but with the class method, we are using the cls. There is also a static method
 '''
 
 #-------------------------------------------------
