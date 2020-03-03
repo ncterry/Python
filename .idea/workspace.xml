@@ -3,12 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="25783dec-1c33-4345-9829-b7c33ec03621" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_Basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/2_Basics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Boolean_Tricks.py" beforeDir="false" afterPath="$PROJECT_DIR$/Boolean_Tricks.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CLASSES MAIN/Classes_Advanced/Classes_Advanced.py" beforeDir="false" afterPath="$PROJECT_DIR$/CLASSES MAIN/Classes_Advanced/Classes_Advanced.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/INTERVIEW MAIN/palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/INTERVIEW MAIN/palindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sshbrute.py" beforeDir="false" afterPath="$PROJECT_DIR$/sshbrute.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +37,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.class_point">
+  <component name="RunManager" selected="Python.hashsha1">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -61,48 +56,6 @@
       <option name="PATTERN" value="" />
       <option name="USE_PATTERN" value="false" />
       <method />
-    </configuration>
-    <configuration name="Classes_Advanced" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CLASSES MAIN/Classes_Advanced" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CLASSES MAIN/Classes_Advanced/Classes_Advanced.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="First_Class_Logger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CLASSES MAIN/First_Class_Logger" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CLASSES MAIN/First_Class_Logger/First_Class_Logger.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
     <configuration name="class_point" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
@@ -146,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ftpbrute" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,11 +107,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/INTERVIEW MAIN" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/INTERVIEW MAIN/palindrome.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ftpbrute.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hasher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hasher.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hashsha1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hashsha1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.hashsha1" />
+        <item itemvalue="Python.hasher" />
+        <item itemvalue="Python.ftpbrute" />
         <item itemvalue="Python.class_point" />
         <item itemvalue="Python.class_polygon" />
-        <item itemvalue="Python.Classes_Advanced" />
-        <item itemvalue="Python.First_Class_Logger" />
-        <item itemvalue="Python.palindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -191,37 +186,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1508" height="281" key="GridCell.Tab.0.bottom" timestamp="1583048560896">
+    <state x="606" y="346" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1583223451884">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="606" y="346" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1583223451884" />
+    <state width="1593" height="2" key="GridCell.Tab.0.bottom" timestamp="1583260645535">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1419" height="153" key="GridCell.Tab.0.bottom/-57.-1027.1680.1027/0.23.1440.877@-57.-1027.1680.1027" timestamp="1582092998364" />
     <state width="1419" height="232" key="GridCell.Tab.0.bottom/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582314056923" />
     <state width="1458" height="174" key="GridCell.Tab.0.bottom/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581055568833" />
-    <state width="1508" height="281" key="GridCell.Tab.0.bottom/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1583048560896" />
+    <state width="1593" height="2" key="GridCell.Tab.0.bottom/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1583260645535" />
     <state width="890" height="278" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1582327840488" />
-    <state width="1508" height="281" key="GridCell.Tab.0.center" timestamp="1583048560895">
+    <state width="1593" height="2" key="GridCell.Tab.0.center" timestamp="1583260645535">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1419" height="153" key="GridCell.Tab.0.center/-57.-1027.1680.1027/0.23.1440.877@-57.-1027.1680.1027" timestamp="1582092998363" />
     <state width="1419" height="232" key="GridCell.Tab.0.center/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582314056923" />
     <state width="1458" height="174" key="GridCell.Tab.0.center/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581055568832" />
-    <state width="1508" height="281" key="GridCell.Tab.0.center/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1583048560895" />
+    <state width="1593" height="2" key="GridCell.Tab.0.center/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1583260645535" />
     <state width="890" height="278" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1582327840487" />
-    <state width="1508" height="281" key="GridCell.Tab.0.left" timestamp="1583048560895">
+    <state width="1593" height="2" key="GridCell.Tab.0.left" timestamp="1583260645534">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1419" height="153" key="GridCell.Tab.0.left/-57.-1027.1680.1027/0.23.1440.877@-57.-1027.1680.1027" timestamp="1582092998362" />
     <state width="1419" height="232" key="GridCell.Tab.0.left/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582314056923" />
     <state width="1458" height="174" key="GridCell.Tab.0.left/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581055568831" />
-    <state width="1508" height="281" key="GridCell.Tab.0.left/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1583048560895" />
+    <state width="1593" height="2" key="GridCell.Tab.0.left/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1583260645534" />
     <state width="890" height="278" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1582327840487" />
-    <state width="1508" height="281" key="GridCell.Tab.0.right" timestamp="1583048560895">
+    <state width="1593" height="2" key="GridCell.Tab.0.right" timestamp="1583260645535">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1419" height="153" key="GridCell.Tab.0.right/-57.-1027.1680.1027/0.23.1440.877@-57.-1027.1680.1027" timestamp="1582092998363" />
     <state width="1419" height="232" key="GridCell.Tab.0.right/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582314056923" />
     <state width="1458" height="174" key="GridCell.Tab.0.right/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581055568832" />
-    <state width="1508" height="281" key="GridCell.Tab.0.right/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1583048560895" />
+    <state width="1593" height="2" key="GridCell.Tab.0.right/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1583260645535" />
     <state width="890" height="278" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1582327840488" />
     <state width="1508" height="345" key="GridCell.Tab.1.bottom" timestamp="1582872566266">
       <screen x="0" y="23" width="1680" height="1027" />

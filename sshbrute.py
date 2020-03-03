@@ -36,7 +36,7 @@ def connect(host, user, password):
             return
     child.sendline(password)  # Send password to finish the login.
     # bruteforce needs a timeout so we will not sift through the file and try to login with passwords too fast.
-    # Basically just add a delay to the program does not try to login too fast. 
+    # Basically just add a delay to the program  does not try to login too fast.
     # Timeout can be adjusted.   0.2 was too fast for our machine, but 0.5 was able to login
     child.expect(PROMPT, timeout=0.5)
     return child
