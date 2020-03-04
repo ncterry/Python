@@ -1,7 +1,4 @@
 
-
-
-
 newline = "\n------------------"
 print(newline)
 
@@ -32,25 +29,4 @@ print("This will overwrite/redo that file each time you run this again.")
 notes_file = open("newfile.txt", "w")
 notes_file.write("Put this in the new file.")
 notes_file.close()
-
-# =============================
-print(newline)
-
-
-
-
-# =============================
-print(newline)
-
-
-
-# =============================
-print(newline)
-
-
-
-# =============================
-print(newline)
-
-
 

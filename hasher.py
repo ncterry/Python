@@ -8,7 +8,10 @@ String is encoded into several types of hashes.
 
 import hashlib  # Allows us to perform the hashing
 
-
+"""
+hash.hexdigest() - the digest is returned as a string object of double length, containing only hexadecimal digits.
+This may be used to exchange the value safely in email or other non-binary environments.
+"""
 hashvalue = input(f'[*] Enter a string for us to hash: ')
 # --------------------------------------------------------
 hashobject1 = hashlib.md5()             # Create an object to hold the md5 hash

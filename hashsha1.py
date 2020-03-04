@@ -32,6 +32,10 @@ passlist = str(urlopen('https://raw.githubusercontent.com/danielmiessler/SecList
 hashlib takes password from file, which is in utf-8 format, and encodes it in SHA1
 There are many more options other than SHA1
 """
+"""
+hash.hexdigest() - the digest is returned as a string object of double length, containing only hexadecimal digits.
+This may be used to exchange the value safely in email or other non-binary environments.
+"""
 for password in passlist.split('\n'):
     hashguess = hashlib.sha1(bytes(password, 'utf-8')).hexdigest()  # change each line/password into SHA1 encoding
     #hashguess = hashlib.sha512(bytes(password, 'utf-8')).hexdigest()  # change each line/password into SHA1 encoding

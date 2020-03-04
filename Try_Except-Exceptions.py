@@ -100,7 +100,7 @@ else:
     print(f.read())
     f.close()
 finally:
-    print("\t Executing the finally, finally. Use to be sure the file is closed??")
+    print("\t Executing the finally, finally. Just to be sure the file is closed??")
 
 
 

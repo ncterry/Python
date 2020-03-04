@@ -9,7 +9,7 @@ import openpyxl as xl
 # ALL ONE FUNCTION
 def process_workbook(filename): # ============================================================
     # Create local workbook, which is a copy of the original xlsx file. ======================
-    wb = xl.load_workbook(filename) # File in current working directory. transactions.xlsx ===
+    wb = xl.load_workbook(filename) # File in current working directory. spreadsheets.xlsx ===
     sheet = wb["Sheet1"] # Only 1 sheet in this file. This is case sensitive. ================
     #
     # 2 ways to get values of cell ===========================================================
@@ -54,11 +54,11 @@ def process_workbook(filename): # ==============================================
     chart.add_data(values)       # Add data to our chart, based on our captured values========
     sheet.add_chart(chart, 'e2') # Which sheet chart will be on, pass our chart, stage chart at cell e2
     #
-    wb.save('transactions2.xlsx') # Save document, after chart================================
+    wb.save('spreadsheets2.xlsx') # Save document, after chart================================
 # -------------------------------------------------
 # -------------------------------------------------
 # -------------------------------------------------
 # We have the single processing xlsx function ALL ABOVE
 # Call that fuction with the target file.
 # Could easily be automated for many files.
-process_workbook("transactions.xlsx")
+process_workbook("spreadsheets.xlsx")
