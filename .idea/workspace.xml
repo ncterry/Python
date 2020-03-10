@@ -2,16 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25783dec-1c33-4345-9829-b7c33ec03621" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DrawingAShape.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Try_Except-Exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/Try_Except-Exceptions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_Write.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_Write.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hasher.py" beforeDir="false" afterPath="$PROJECT_DIR$/hasher.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hashsha1.py" beforeDir="false" afterPath="$PROJECT_DIR$/hashsha1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spreadsheets.py" beforeDir="false" afterPath="$PROJECT_DIR$/spreadsheets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/transactions.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/spreadsheets.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/transactions2.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/spreadsheets2.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/salting2userpwds.txt" beforeDir="false" afterPath="$PROJECT_DIR$/salting2userpwds.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +42,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.salting2">
+  <component name="RunManager" selected="Python.portQuiz">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +62,7 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <configuration name="bruteforceMD5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="number_comma000" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -82,7 +74,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bruteforceMD5.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/number_comma000.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -91,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hasher" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="numbers_Grid" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,7 +95,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/hasher.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/numbers_Grid.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="portQuiz" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/portQuiz.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -154,34 +167,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="try_Except-Exceptions" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/try_Except-Exceptions.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.portQuiz" />
+        <item itemvalue="Python.numbers_Grid" />
+        <item itemvalue="Python.number_comma000" />
         <item itemvalue="Python.salting2" />
         <item itemvalue="Python.salting" />
-        <item itemvalue="Python.bruteforceMD5" />
-        <item itemvalue="Python.hasher" />
-        <item itemvalue="Python.try_Except-Exceptions" />
       </list>
     </recent_temporary>
   </component>
@@ -203,40 +195,40 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="606" y="346" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1583223451884" />
-    <state width="1339" height="144" key="GridCell.Tab.0.bottom" timestamp="1583299187833">
-      <screen x="149" y="-745" width="1360" height="745" />
+    <state width="1530" height="200" key="GridCell.Tab.0.bottom" timestamp="1583450236059">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1419" height="153" key="GridCell.Tab.0.bottom/-57.-1027.1680.1027/0.23.1440.877@-57.-1027.1680.1027" timestamp="1582092998364" />
     <state width="1419" height="232" key="GridCell.Tab.0.bottom/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582314056923" />
     <state width="1458" height="174" key="GridCell.Tab.0.bottom/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581055568833" />
-    <state width="1634" height="318" key="GridCell.Tab.0.bottom/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1583296151357" />
+    <state width="1530" height="200" key="GridCell.Tab.0.bottom/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1583450236059" />
     <state width="1339" height="144" key="GridCell.Tab.0.bottom/0.23.1680.1027/149.-745.1360.745@149.-745.1360.745" timestamp="1583299187833" />
     <state width="890" height="278" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1582327840488" />
-    <state width="1339" height="144" key="GridCell.Tab.0.center" timestamp="1583299187833">
-      <screen x="149" y="-745" width="1360" height="745" />
+    <state width="1530" height="200" key="GridCell.Tab.0.center" timestamp="1583450236058">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1419" height="153" key="GridCell.Tab.0.center/-57.-1027.1680.1027/0.23.1440.877@-57.-1027.1680.1027" timestamp="1582092998363" />
     <state width="1419" height="232" key="GridCell.Tab.0.center/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582314056923" />
     <state width="1458" height="174" key="GridCell.Tab.0.center/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581055568832" />
-    <state width="1634" height="318" key="GridCell.Tab.0.center/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1583296151356" />
+    <state width="1530" height="200" key="GridCell.Tab.0.center/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1583450236058" />
     <state width="1339" height="144" key="GridCell.Tab.0.center/0.23.1680.1027/149.-745.1360.745@149.-745.1360.745" timestamp="1583299187833" />
     <state width="890" height="278" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1582327840487" />
-    <state width="1339" height="144" key="GridCell.Tab.0.left" timestamp="1583299187832">
-      <screen x="149" y="-745" width="1360" height="745" />
+    <state width="1530" height="200" key="GridCell.Tab.0.left" timestamp="1583450236057">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1419" height="153" key="GridCell.Tab.0.left/-57.-1027.1680.1027/0.23.1440.877@-57.-1027.1680.1027" timestamp="1582092998362" />
     <state width="1419" height="232" key="GridCell.Tab.0.left/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582314056923" />
     <state width="1458" height="174" key="GridCell.Tab.0.left/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581055568831" />
-    <state width="1634" height="318" key="GridCell.Tab.0.left/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1583296151356" />
+    <state width="1530" height="200" key="GridCell.Tab.0.left/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1583450236057" />
     <state width="1339" height="144" key="GridCell.Tab.0.left/0.23.1680.1027/149.-745.1360.745@149.-745.1360.745" timestamp="1583299187832" />
     <state width="890" height="278" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1582327840487" />
-    <state width="1339" height="144" key="GridCell.Tab.0.right" timestamp="1583299187833">
-      <screen x="149" y="-745" width="1360" height="745" />
+    <state width="1530" height="200" key="GridCell.Tab.0.right" timestamp="1583450236058">
+      <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1419" height="153" key="GridCell.Tab.0.right/-57.-1027.1680.1027/0.23.1440.877@-57.-1027.1680.1027" timestamp="1582092998363" />
     <state width="1419" height="232" key="GridCell.Tab.0.right/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582314056923" />
     <state width="1458" height="174" key="GridCell.Tab.0.right/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581055568832" />
-    <state width="1634" height="318" key="GridCell.Tab.0.right/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1583296151357" />
+    <state width="1530" height="200" key="GridCell.Tab.0.right/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1583450236058" />
     <state width="1339" height="144" key="GridCell.Tab.0.right/0.23.1680.1027/149.-745.1360.745@149.-745.1360.745" timestamp="1583299187833" />
     <state width="890" height="278" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1582327840488" />
     <state width="1508" height="345" key="GridCell.Tab.1.bottom" timestamp="1582872566266">
@@ -267,10 +259,10 @@
     </state>
     <state x="583" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1580951175142" />
     <state x="583" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1582412671454" />
-    <state x="449" y="245" width="782" height="792" key="search.everywhere.popup" timestamp="1583047926315">
+    <state x="449" y="245" width="782" height="792" key="search.everywhere.popup" timestamp="1583368610025">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582178221457" />
-    <state x="449" y="245" width="782" height="792" key="search.everywhere.popup/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1583047926315" />
+    <state x="449" y="245" width="782" height="792" key="search.everywhere.popup/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1583368610025" />
   </component>
 </project>
