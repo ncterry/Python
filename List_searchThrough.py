@@ -13,7 +13,7 @@ if not found:
     print('Not Found')
 
 print('\n---------------')
-# The food way
+# The good way
 found  = False
 for letter in haystack:
     if needle == letter:
