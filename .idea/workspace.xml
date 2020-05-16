@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25783dec-1c33-4345-9829-b7c33ec03621" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List_searchThrough.py" beforeDir="false" afterPath="$PROJECT_DIR$/List_searchThrough.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lists_basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Lists_basics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/INTERVIEW MAIN/addParentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/INTERVIEW MAIN/addParentheses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/INTERVIEW MAIN/palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/INTERVIEW MAIN/palindrome.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +43,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.addParentheses">
+  <component name="RunManager" selected="Python.findWordsTree">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -62,28 +63,7 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <configuration name="addParentheses" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/INTERVIEW MAIN" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/INTERVIEW MAIN/addParentheses.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="linkedList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -95,7 +75,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linkedList.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionaries.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +84,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="removeDuplicates" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="findWordsTree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -116,7 +96,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/INTERVIEW MAIN/removeDuplicates.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/INTERVIEW MAIN/findWordsTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,7 +105,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reverseLinkedList" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,7 +117,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/INTERVIEW MAIN/reverseLinkedList.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/INTERVIEW MAIN/palindrome.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -146,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="stairClimb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="subarraySum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -158,7 +138,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/INTERVIEW MAIN/stairClimb.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/INTERVIEW MAIN/subarraySum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="warmerTemps" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/INTERVIEW MAIN" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/INTERVIEW MAIN/warmerTemps.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,11 +170,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.addParentheses" />
-        <item itemvalue="Python.linkedList" />
-        <item itemvalue="Python.removeDuplicates" />
-        <item itemvalue="Python.reverseLinkedList" />
-        <item itemvalue="Python.stairClimb" />
+        <item itemvalue="Python.findWordsTree" />
+        <item itemvalue="Python.palindrome" />
+        <item itemvalue="Python.subarraySum" />
+        <item itemvalue="Python.warmerTemps" />
+        <item itemvalue="Python.dictionaries" />
       </list>
     </recent_temporary>
   </component>
@@ -195,58 +196,58 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="606" y="346" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1583223451884" />
-    <state width="1643" height="216" key="GridCell.Tab.0.bottom" timestamp="1589302324324">
+    <state width="1643" height="275" key="GridCell.Tab.0.bottom" timestamp="1589619244895">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1419" height="153" key="GridCell.Tab.0.bottom/-57.-1027.1680.1027/0.23.1440.877@-57.-1027.1680.1027" timestamp="1582092998364" />
     <state width="1419" height="232" key="GridCell.Tab.0.bottom/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582314056923" />
     <state width="1458" height="174" key="GridCell.Tab.0.bottom/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581055568833" />
-    <state width="1643" height="216" key="GridCell.Tab.0.bottom/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1589302324324" />
+    <state width="1643" height="275" key="GridCell.Tab.0.bottom/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1589619244895" />
     <state width="1339" height="144" key="GridCell.Tab.0.bottom/0.23.1680.1027/149.-745.1360.745@149.-745.1360.745" timestamp="1583299187833" />
     <state width="1643" height="216" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1589007172665" />
-    <state width="1643" height="216" key="GridCell.Tab.0.center" timestamp="1589302324323">
+    <state width="1643" height="275" key="GridCell.Tab.0.center" timestamp="1589619244894">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1419" height="153" key="GridCell.Tab.0.center/-57.-1027.1680.1027/0.23.1440.877@-57.-1027.1680.1027" timestamp="1582092998363" />
     <state width="1419" height="232" key="GridCell.Tab.0.center/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582314056923" />
     <state width="1458" height="174" key="GridCell.Tab.0.center/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581055568832" />
-    <state width="1643" height="216" key="GridCell.Tab.0.center/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1589302324323" />
+    <state width="1643" height="275" key="GridCell.Tab.0.center/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1589619244894" />
     <state width="1339" height="144" key="GridCell.Tab.0.center/0.23.1680.1027/149.-745.1360.745@149.-745.1360.745" timestamp="1583299187833" />
     <state width="1643" height="216" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1589007172664" />
-    <state width="1643" height="216" key="GridCell.Tab.0.left" timestamp="1589302324323">
+    <state width="1643" height="275" key="GridCell.Tab.0.left" timestamp="1589619244894">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1419" height="153" key="GridCell.Tab.0.left/-57.-1027.1680.1027/0.23.1440.877@-57.-1027.1680.1027" timestamp="1582092998362" />
     <state width="1419" height="232" key="GridCell.Tab.0.left/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582314056923" />
     <state width="1458" height="174" key="GridCell.Tab.0.left/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581055568831" />
-    <state width="1643" height="216" key="GridCell.Tab.0.left/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1589302324323" />
+    <state width="1643" height="275" key="GridCell.Tab.0.left/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1589619244894" />
     <state width="1339" height="144" key="GridCell.Tab.0.left/0.23.1680.1027/149.-745.1360.745@149.-745.1360.745" timestamp="1583299187832" />
     <state width="1643" height="216" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1589007172664" />
-    <state width="1643" height="216" key="GridCell.Tab.0.right" timestamp="1589302324324">
+    <state width="1643" height="275" key="GridCell.Tab.0.right" timestamp="1589619244895">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1419" height="153" key="GridCell.Tab.0.right/-57.-1027.1680.1027/0.23.1440.877@-57.-1027.1680.1027" timestamp="1582092998363" />
     <state width="1419" height="232" key="GridCell.Tab.0.right/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582314056923" />
     <state width="1458" height="174" key="GridCell.Tab.0.right/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581055568832" />
-    <state width="1643" height="216" key="GridCell.Tab.0.right/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1589302324324" />
+    <state width="1643" height="275" key="GridCell.Tab.0.right/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1589619244895" />
     <state width="1339" height="144" key="GridCell.Tab.0.right/0.23.1680.1027/149.-745.1360.745@149.-745.1360.745" timestamp="1583299187833" />
     <state width="1643" height="216" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1589007172665" />
-    <state width="1508" height="345" key="GridCell.Tab.1.bottom" timestamp="1582872566266">
+    <state width="1643" height="340" key="GridCell.Tab.1.bottom" timestamp="1589617896516">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1508" height="345" key="GridCell.Tab.1.bottom/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1582872566266" />
-    <state width="1508" height="345" key="GridCell.Tab.1.center" timestamp="1582872566266">
+    <state width="1643" height="340" key="GridCell.Tab.1.bottom/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1589617896516" />
+    <state width="1643" height="340" key="GridCell.Tab.1.center" timestamp="1589617896516">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1508" height="345" key="GridCell.Tab.1.center/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1582872566266" />
-    <state width="1508" height="345" key="GridCell.Tab.1.left" timestamp="1582872566266">
+    <state width="1643" height="340" key="GridCell.Tab.1.center/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1589617896516" />
+    <state width="1643" height="340" key="GridCell.Tab.1.left" timestamp="1589617896516">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1508" height="345" key="GridCell.Tab.1.left/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1582872566266" />
-    <state width="1508" height="345" key="GridCell.Tab.1.right" timestamp="1582872566266">
+    <state width="1643" height="340" key="GridCell.Tab.1.left/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1589617896516" />
+    <state width="1643" height="340" key="GridCell.Tab.1.right" timestamp="1589617896516">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1508" height="345" key="GridCell.Tab.1.right/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1582872566266" />
+    <state width="1643" height="340" key="GridCell.Tab.1.right/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1589617896516" />
     <state x="301" y="205" key="SettingsEditor" timestamp="1583971749957">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
@@ -259,10 +260,10 @@
     </state>
     <state x="583" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1580951175142" />
     <state x="583" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1582412671454" />
-    <state x="449" y="245" width="782" height="792" key="search.everywhere.popup" timestamp="1589223210984">
+    <state x="449" y="245" width="782" height="792" key="search.everywhere.popup" timestamp="1589618356930">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582178221457" />
-    <state x="449" y="245" width="782" height="792" key="search.everywhere.popup/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1589223210983" />
+    <state x="449" y="245" width="782" height="792" key="search.everywhere.popup/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1589618356930" />
   </component>
 </project>

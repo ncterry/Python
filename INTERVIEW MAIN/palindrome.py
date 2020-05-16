@@ -10,7 +10,9 @@ def isPalindrome(string):
             return False
         left += 1
         right -= 1
-        return True
+        #print(string)           # print string
+        #print(string[::-1])     # print string in reverse
+    return True
 
 
-isPalindrome("redrum sdfdssmurder")
+print(isPalindrome("redrums dfd smurder"))      
