@@ -4,8 +4,17 @@
     <list default="true" id="25783dec-1c33-4345-9829-b7c33ec03621" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/INTERVIEW MAIN/addParentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/INTERVIEW MAIN/addParentheses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/INTERVIEW MAIN/palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/INTERVIEW MAIN/palindrome.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_HelloPython.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_HelloPython.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_TRICKS.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_TRICKS.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Tips_Tricks.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_Tips_Tricks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Basics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Boolean_Tricks.py" beforeDir="false" afterPath="$PROJECT_DIR$/Boolean_Tricks.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/INTERVIEW MAIN/findWordsTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/INTERVIEW MAIN/findWordsTree.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Portscanner.py" beforeDir="false" afterPath="$PROJECT_DIR$/Portscanner.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bufferOverFlow.py" beforeDir="false" afterPath="$PROJECT_DIR$/bufferOverFlow.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/linkedList.py" beforeDir="false" afterPath="$PROJECT_DIR$/linkedList.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/python101.py" beforeDir="false" afterPath="$PROJECT_DIR$/_python101.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,15 +44,16 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Tkinter" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Tkinter" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.findWordsTree">
+  <component name="RunManager" selected="Python.linkedListDouble">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,7 +73,7 @@
       <option name="USE_PATTERN" value="false" />
       <method />
     </configuration>
-    <configuration name="dictionaries" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="binaryTree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -75,7 +85,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/dictionaries.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binaryTree.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -84,7 +94,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="findWordsTree" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="deques" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -92,11 +102,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/INTERVIEW MAIN" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/INTERVIEW MAIN/findWordsTree.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/deques.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="palindrome" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="linkedListDouble" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +123,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/INTERVIEW MAIN" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/INTERVIEW MAIN/palindrome.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/linkedListDouble.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +136,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="subarraySum" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="queues" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +144,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/INTERVIEW MAIN" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/INTERVIEW MAIN/subarraySum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/queues.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +157,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="warmerTemps" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="stacks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +165,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/INTERVIEW MAIN" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/INTERVIEW MAIN/warmerTemps.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/stacks.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.findWordsTree" />
-        <item itemvalue="Python.palindrome" />
-        <item itemvalue="Python.subarraySum" />
-        <item itemvalue="Python.warmerTemps" />
-        <item itemvalue="Python.dictionaries" />
+        <item itemvalue="Python.linkedListDouble" />
+        <item itemvalue="Python.deques" />
+        <item itemvalue="Python.queues" />
+        <item itemvalue="Python.stacks" />
+        <item itemvalue="Python.binaryTree" />
       </list>
     </recent_temporary>
   </component>
@@ -196,74 +206,72 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="606" y="346" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1583223451884" />
-    <state width="1643" height="275" key="GridCell.Tab.0.bottom" timestamp="1589619244895">
+    <state width="1536" height="211" key="GridCell.Tab.0.bottom" timestamp="1590194500693">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1419" height="153" key="GridCell.Tab.0.bottom/-57.-1027.1680.1027/0.23.1440.877@-57.-1027.1680.1027" timestamp="1582092998364" />
     <state width="1419" height="232" key="GridCell.Tab.0.bottom/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582314056923" />
-    <state width="1458" height="174" key="GridCell.Tab.0.bottom/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581055568833" />
-    <state width="1643" height="275" key="GridCell.Tab.0.bottom/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1589619244895" />
+    <state width="1536" height="211" key="GridCell.Tab.0.bottom/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1590194500693" />
     <state width="1339" height="144" key="GridCell.Tab.0.bottom/0.23.1680.1027/149.-745.1360.745@149.-745.1360.745" timestamp="1583299187833" />
     <state width="1643" height="216" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1589007172665" />
-    <state width="1643" height="275" key="GridCell.Tab.0.center" timestamp="1589619244894">
+    <state width="1536" height="211" key="GridCell.Tab.0.center" timestamp="1590194500692">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1419" height="153" key="GridCell.Tab.0.center/-57.-1027.1680.1027/0.23.1440.877@-57.-1027.1680.1027" timestamp="1582092998363" />
     <state width="1419" height="232" key="GridCell.Tab.0.center/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582314056923" />
-    <state width="1458" height="174" key="GridCell.Tab.0.center/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581055568832" />
-    <state width="1643" height="275" key="GridCell.Tab.0.center/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1589619244894" />
+    <state width="1536" height="211" key="GridCell.Tab.0.center/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1590194500692" />
     <state width="1339" height="144" key="GridCell.Tab.0.center/0.23.1680.1027/149.-745.1360.745@149.-745.1360.745" timestamp="1583299187833" />
     <state width="1643" height="216" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1589007172664" />
-    <state width="1643" height="275" key="GridCell.Tab.0.left" timestamp="1589619244894">
+    <state width="1536" height="211" key="GridCell.Tab.0.left" timestamp="1590194500692">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1419" height="153" key="GridCell.Tab.0.left/-57.-1027.1680.1027/0.23.1440.877@-57.-1027.1680.1027" timestamp="1582092998362" />
     <state width="1419" height="232" key="GridCell.Tab.0.left/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582314056923" />
-    <state width="1458" height="174" key="GridCell.Tab.0.left/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581055568831" />
-    <state width="1643" height="275" key="GridCell.Tab.0.left/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1589619244894" />
+    <state width="1536" height="211" key="GridCell.Tab.0.left/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1590194500692" />
     <state width="1339" height="144" key="GridCell.Tab.0.left/0.23.1680.1027/149.-745.1360.745@149.-745.1360.745" timestamp="1583299187832" />
     <state width="1643" height="216" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1589007172664" />
-    <state width="1643" height="275" key="GridCell.Tab.0.right" timestamp="1589619244895">
+    <state width="1536" height="211" key="GridCell.Tab.0.right" timestamp="1590194500693">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state width="1419" height="153" key="GridCell.Tab.0.right/-57.-1027.1680.1027/0.23.1440.877@-57.-1027.1680.1027" timestamp="1582092998363" />
     <state width="1419" height="232" key="GridCell.Tab.0.right/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582314056923" />
-    <state width="1458" height="174" key="GridCell.Tab.0.right/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1581055568832" />
-    <state width="1643" height="275" key="GridCell.Tab.0.right/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1589619244895" />
+    <state width="1536" height="211" key="GridCell.Tab.0.right/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1590194500693" />
     <state width="1339" height="144" key="GridCell.Tab.0.right/0.23.1680.1027/149.-745.1360.745@149.-745.1360.745" timestamp="1583299187833" />
     <state width="1643" height="216" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1589007172665" />
-    <state width="1643" height="340" key="GridCell.Tab.1.bottom" timestamp="1589617896516">
+    <state width="1643" height="340" key="GridCell.Tab.1.bottom" timestamp="1589685287249">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1643" height="340" key="GridCell.Tab.1.bottom/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1589617896516" />
-    <state width="1643" height="340" key="GridCell.Tab.1.center" timestamp="1589617896516">
+    <state width="1643" height="340" key="GridCell.Tab.1.bottom/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1589685287249" />
+    <state width="1643" height="340" key="GridCell.Tab.1.center" timestamp="1589685287249">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1643" height="340" key="GridCell.Tab.1.center/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1589617896516" />
-    <state width="1643" height="340" key="GridCell.Tab.1.left" timestamp="1589617896516">
+    <state width="1643" height="340" key="GridCell.Tab.1.center/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1589685287249" />
+    <state width="1643" height="340" key="GridCell.Tab.1.left" timestamp="1589685287249">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1643" height="340" key="GridCell.Tab.1.left/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1589617896516" />
-    <state width="1643" height="340" key="GridCell.Tab.1.right" timestamp="1589617896516">
+    <state width="1643" height="340" key="GridCell.Tab.1.left/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1589685287249" />
+    <state width="1643" height="340" key="GridCell.Tab.1.right" timestamp="1589685287249">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1643" height="340" key="GridCell.Tab.1.right/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1589617896516" />
+    <state width="1643" height="340" key="GridCell.Tab.1.right/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1589685287249" />
     <state x="301" y="205" key="SettingsEditor" timestamp="1583971749957">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="258" y="178" key="SettingsEditor/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582313599992" />
-    <state x="301" y="293" key="SettingsEditor/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1580946725349" />
     <state x="301" y="205" key="SettingsEditor/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1583971749957" />
     <state x="301" y="205" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1582324741956" />
     <state x="583" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1582412671454">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="583" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-664.-1027.1680.1027/0.23.1680.1027@0.23.1680.1027" timestamp="1580951175142" />
     <state x="583" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1582412671454" />
-    <state x="449" y="245" width="782" height="792" key="search.everywhere.popup" timestamp="1589618356930">
+    <state x="0" y="31" width="768" height="986" key="dock-window-1" timestamp="1590137308761">
+      <screen x="0" y="23" width="1680" height="1027" />
+    </state>
+    <state x="0" y="31" width="768" height="986" key="dock-window-1/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1590137308761" />
+    <state x="449" y="245" width="782" height="792" key="search.everywhere.popup" timestamp="1590167236932">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582178221457" />
-    <state x="449" y="245" width="782" height="792" key="search.everywhere.popup/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1589618356930" />
+    <state x="449" y="245" width="782" height="792" key="search.everywhere.popup/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1590167236932" />
   </component>
 </project>

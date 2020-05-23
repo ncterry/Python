@@ -23,7 +23,7 @@ def parseIP(cidrNotation):
     ip = addressSplit[0]
     cidrSubnet = addressSplit[1]
 # ipSplit is turning this into an auto list
-    #[192][168][10][3]
+    # [192][168][10][3]
     ipSplit = ip.split('.')
     return (ipSplit, cidrSubnet)
 ''' Now we have the address, split into a list and subnet:

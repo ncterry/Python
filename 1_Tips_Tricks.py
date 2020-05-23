@@ -1,8 +1,5 @@
 
 
-
-
-
 print('\n\ntip 3===========================================================')
 print(' We want to swap two variables')
 x = 10
@@ -48,9 +45,9 @@ print('Same thing, but more efficient.')
 print('\n\ntip 5===========================================================')
 print('For loops. We want to search a list to see if something is in there.')
 needle = 'd'
-haystack = ['a','b','c']
+haystack = ['a', 'b', 'c']
 # The bad way
-found  = False
+found = False
 for letter in haystack:
     if needle == letter:
         print('Found!')
@@ -61,7 +58,7 @@ if not found:
 
 print('\n---------------')
 # The food way
-found  = False
+found = False
 for letter in haystack:
     if needle == letter:
         print('Found!')
@@ -77,7 +74,7 @@ print(' This will read in a txt file and read lines one by one.')
 f = open('1_Tips_Tricks.txt')
 text = f.read()
 for line in text.split('\n'):
-    print('\t',line)
+    print('\t', line)
 f.close()
 
 print('\n---------------')

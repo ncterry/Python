@@ -1,11 +1,11 @@
 
 
-'''---------------------------------------------------------------------------
+"""---------------------------------------------------------------------------
 boolean
 
 remember you can set a boolean just based on a result
 bool_one =  2**3 == 16
-	We know that the result of 2**3 = 8 so the bool_one will be set to false.
+We know that the result of 2**3 = 8 so the bool_one will be set to false.
 
     Boolean Operators
 ————————————
@@ -22,18 +22,17 @@ False or False is False		0+0=0
 Not True is False
 Not False is True
 # XXX:
-'''
-print('')
+"""
 
-bool_one =  2**3 == 16
-print('\n The equation 2**3 == 16 doesn\'t work so it is:   ',bool_one)
 
+bool_one = 2**3 == 16
+print('\n The equation 2**3 == 16 doesn\'t work so it is:   ', bool_one)
 
 
 print('\n\nThe:   and   will inherently return a false, if either part of the expression is false.   1*0 = 0')
 print('--------------------\nSet bool_one equal to the result of False and False')
 print('\tbool_one = 2<1 and 5>5')
-bool_one = 2<1 and 5>5
+bool_one = 2 < 1 and 5 > 5
 print('bool_one = ', bool_one)
 print('\n--------------------\nSet bool_two equal to the result of False and True')
 print('\tbool_two = -(-(-(-2))) == -2 and 4 >= 16**0.')

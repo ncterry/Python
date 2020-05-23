@@ -13,14 +13,14 @@ class LinkedList:   # A wrapper that contains the nodes
     def insertLast(self, value):
         newNode = Node(value)
 
-    def append(self, data):     # Create the first element of the list
+    def append(self, data):         # Create the first element of the list
         new_node = Node(data)
         current = self.head
-        while current.next != None:  # Cycle through currentrent list until end.
+        while current.next != None:  # Cycle through current list until end.
             current = current.next
         current.next = new_node      # Place new node at end of list.
 
-    def length(self):           # Class function to count total number of nodes
+    def length(self):               # Class function to count total number of nodes
         current = self.head
         total = 0
         while current.next != None:
@@ -28,7 +28,7 @@ class LinkedList:   # A wrapper that contains the nodes
             current = current.next
         return total
 
-    def display(self):          # Display the currentrent contents of list
+    def display(self):          # Display the current contents of list
         elems = []
         current_node = self.head
         while current_node.next != None:        # Until reach the end
@@ -39,22 +39,22 @@ class LinkedList:   # A wrapper that contains the nodes
     def get(self, index):
         if index >= self.length():
             print("ERROR: 'Get' Index out of range!")
-        current_idx = 0             # currentrent index we are looking at
-        current_node = self.head    # currentrent node we are looking at
-        while True:                 # We already checked if index > length, so this will hit a node, and break
+        current_idx = 0                     # current index we are looking at
+        current_node = self.head            # current node we are looking at
+        while True:                         # We already checked if index > length, so this will hit a node, and break
             current_node = current_node.next
             if current_idx == index:        # Cycle until position matches what user sent in
                 return current_node.data
             current_idx += 1
 
-    def erase(self, index):         #index to erase
+    def erase(self, index):                 # index to erase
         if index >= self.length():
             print("ERROR: 'Erase' Index out of range!")
             return
-        current_idx = 0             # currentrent index we are looking at
-        current_node = self.head    # currentrent node we are looking at
+        current_idx = 0                     # current index we are looking at
+        current_node = self.head            # current node we are looking at
         while True:
-            last_node = current_node            # save currentrent as last. erase currentrent, then tie last to new next
+            last_node = current_node            # save current as last. erase current, then tie last to new next
             current_node = current_node.next    # last_node     --> xxx -->     current_node.next
             if current_idx == index:            # if at index that user provided to delete
                 last_node.next = current_node.next  # dont have to delete, just change pointer to new/next node
