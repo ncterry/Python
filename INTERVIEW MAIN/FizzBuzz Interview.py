@@ -6,7 +6,7 @@ print(' If number is divisible by both, print FizzBuzz')
 
 
 print('\n\n Remember, more specific at the top.')
-for number in range(1,101):
+for number in range(1, 101):
     if number % 3 == 0 and number % 5 == 0:
         print('\t', number, ' FizzBuzz')
     elif number % 3 == 0:
@@ -15,4 +15,4 @@ for number in range(1,101):
         print('\t', number, ' Buzz')
 
     else:
-        print(number,' is not divisible by 3 or 5')
+        print(number, ' is not divisible by 3 or 5')

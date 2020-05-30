@@ -1,0 +1,83 @@
+From airnow.gov
+	Nathan Terry
+	tracksta.....
+	ncharlesterry....
+	@2L airnow
+
+Generated URL for:
+	Zipcode 80231
+	Radius	5 miles
+	Format	application/json
+
+http://www.airnowapi.org/aq/observation/zipCode/current/?format=application/json&zipCode=80231&distance=5&API_KEY=E04FECF3-DD5A-44E9-A883-23D5E1E08A6A
+
+
+Example Output:
+[{"DateObserved":"2020-05-29 ","HourObserved":19,"LocalTimeZone":"MST","ReportingArea":"Denver-Boulder","StateCode":"CO",
+"Latitude":39.768,"Longitude":-104.873,"ParameterName":"O3","AQI":49,"Category":{"Number":1,"Name":"Good"}},
+{"DateObserved":"2020-05-29 ","HourObserved":19,"LocalTimeZone":"MST","ReportingArea":"Denver-Boulder","StateCode":"CO",
+"Latitude":39.768,"Longitude":-104.873,"ParameterName":"PM2.5","AQI":30,"Category":{"Number":1,"Name":"Good"}},
+{"DateObserved":"2020-05-29 ","HourObserved":19,"LocalTimeZone":"MST","ReportingArea":"Denver-Boulder","StateCode":"CO",
+"Latitude":39.768,"Longitude":-104.873,"ParameterName":"PM10","AQI":49,"Category":{"Number":1,"Name":"Good"}}]
+
+
+
+
+Go to website, if you right-click on an image or link, and then click on:	
+		"Inspect Element" or "View Page Source"
+
+You can find info like below, including the hex-values for the colors. 
+We can use these hex values to match our tkinter-window colors as seen in:
+
+	tkinter27_weatherapp4.py
+
+
+       <table class="aqiTable" style="width:600px">
+            <tr>
+                <th>AQI Numbers</th>
+                <th>AQI Category (Descriptor)</th>
+                <th>AQI Color</th>
+                <th>&nbsp;&nbsp;Hexadecimal Color Value</th>
+                <th>Category Number</th>
+            </tr>
+            <tr>
+                <td>0 - 50</td>
+                <td>Good</td>
+                <td class="aqi_green">Green</td>
+                <td>&nbsp;&nbsp;(00e400)</td>
+                <td>1</td>
+            </tr>
+            <tr>
+                <td>51 - 100</td>
+                <td>Moderate</td>
+                <td class="aqi_yellow">Yellow</td>
+                <td>&nbsp;&nbsp;(ffff00)</td>
+                <td>2</td>
+            </tr>
+            <tr>
+                <td>101 - 150</td>
+                <td>Unhealthy for Sensitive Groups</td>
+                <td class="aqi_orange">Orange</td>
+                <td>&nbsp;&nbsp;(ff7e00)</td>
+                <td>3</td>
+            </tr>
+            <tr>
+                <td>151 - 200</td>
+                <td>Unhealthy</td>
+                <td class="aqi_red">Red</td>
+                <td>&nbsp;&nbsp;(ff0000)</td>
+                <td>4</td>
+            </tr>
+            <tr>
+                <td>201 - 300</td>
+                <td>Very Unhealthy</td>
+                <td class="aqi_purple">Purple</td>
+                <td>&nbsp;&nbsp;(8f3f97)</td>
+                <td>5</td>
+            </tr>
+            <tr>
+                <td>301 - 500</td>
+                <td>Hazardous</td>
+                <td class="aqi_maroon">Maroon</td>
+                <td>&nbsp;&nbsp;(7e0023)</td>
+                <td>6</td>

@@ -1,8 +1,9 @@
 """
 https://www.youtube.com/watch?v=YXPyB4XeYLA
 Tkinter Course - Create Graphic User Interfaces in Python Tutorial
-
 This is for buttons. Full explanations for labels, and grid spacing is on tkinter3_labels.
+
+    # python3 tkinter4_buttons.py
 """
 from tkinter import *
 # -----------------------------
@@ -13,7 +14,7 @@ def myClick():
     myLabel2 = Label(root, text="Look I clicked on the button.")  # Simple label on window
     #myLabel2.grid(row=4, column=3)
     myLabel2.pack()
-    # If you click the button several times, with grid, since the message is
+    # If you click the button several times, with grid(), since the message is
     #       in the same place, then nothing changes. If you use pack() then
     #       the same message will repeat, and another gets copied on the window.
 # -----------------------------

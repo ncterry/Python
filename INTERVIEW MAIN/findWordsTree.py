@@ -34,7 +34,7 @@ class Node:
 
 class Solution:
     def __init__(self):
-      self.trie = None
+        self.trie = None
 
     def build(self, words):
         self.trie = Node({}, False)     # Create base trie structure.
@@ -56,7 +56,7 @@ class Solution:
                                                             # Now we will go find all words from this point.
     def _findWordsFromNode(self, node, prefix):   # From current node, return all of words: ['dog', 'door', 'dodge']
         words = []                  # list to append words we find, and return list.
-        if node.isWord:             # If node is marked as word,  ex. d->o->g..... g=isWord since it does complete (dog)....
+        if node.isWord:             # If node marked as word, ex. d->o->g ... g=isWord since it does complete (dog)....
             words += [prefix]       # ..... then add word to list.
         for char in node.children:  # Go through each next node-children (chars) then call function to repeat if words.
             words += self._findWordsFromNode(node.children[char], prefix + char)

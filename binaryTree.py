@@ -30,6 +30,18 @@ class Node:
         else:
             self.data = data
 
+    def findval(self, lkpval):  # findval method to compare the value with nodes
+        if lkpval < self.data:
+            if self.left is None:
+                return str(lkpval) + " Not Found"
+            return self.left.findval(lkpval)
+        elif lkpval > self.data:
+            if self.right is None:
+                return str(lkpval) + " Not Found"
+            return self.right.findval(lkpval)
+        else:
+            return '\n' + str(self.data) + ' is found'
+
     def PrintTree(self):    # Print the tree. Lowest value nodes first.
         if self.left:       # If self.left exists, i.e. is not NONE
             self.left.PrintTree()  # Check is we can go any further left (LESS) on current Node
@@ -48,5 +60,8 @@ root.insert(2)
 root.insert(5)
 root.insert(13)
 
-
 root.PrintTree()
+
+print(root.findval(7))
+print(root.findval(14))
+

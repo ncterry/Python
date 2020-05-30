@@ -6,14 +6,15 @@ Tkinter Course - Create Graphic User Interfaces in Python Tutorial
 Python comes built in with tkinter
 Everything is a widget in tkinter
 
+    # python3 tkinter3_labels.py
 """
 from tkinter import *
 # ---------------------
 root = Tk()     # State the root widget. This is tied to everything
 # Create Labels
-myLabel1 = Label(root, text="Hello World")      # We created labels
+myLabel1 = Label(root, text="Hello World")          # We created labels
 myLabel2 = Label(root, text="My name is Nate.")
-myLabel3 = Label(root, text="                ")  # empty space columns. Inefficient, but effective.
+myLabel3 = Label(root, text="                ")     # empty space columns. Inefficient, but effective.
 # ----------------------------
 # Place labels
 #myLabel1.pack()  # Pack = shoving it in the window anywhere. Cant use pack + grid together

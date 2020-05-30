@@ -31,7 +31,7 @@ print(post2)
 
 
 print('\n\n Access the data in the dictionary.')
-print(' To see a specific key in the dictionary:', '\t',post["message"])
+print(' To see a specific key in the dictionary:', '\t', post["message"])
 
 
 print('\n\n Check if a key is actually in the dictionary:')

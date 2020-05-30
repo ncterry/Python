@@ -13,7 +13,8 @@ class Polygon:      # ex. triangles, squares, etc...
         self.angle = self.interior_angles / self.sides  # Each angle = ((sides - 2) * 180) / sides
     # -----------------------------
     """
-    # Base Turtle Class method to draw a shape. We are not using this 'drawSquare'
+    # Base Turtle Class method to draw a shape. 
+    # We are not using this 'drawSquare'
     # This function turns 90degrees, so really only does a square.
     def drawSquare(self):               # pass in self, to access attributes
         for i in range(self.sides):     # square = 4 sides

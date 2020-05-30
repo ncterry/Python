@@ -3,6 +3,8 @@ https://www.youtube.com/watch?v=YXPyB4XeYLA
 Tkinter Course - Create Graphic User Interfaces in Python Tutorial
 
 This is for user input, using the base code from tkinter4_buttons.py
+
+    # python3 tkinter5_input.py
 """
 # -----------------------------
 from tkinter import *
@@ -14,7 +16,7 @@ root = Tk()
 userentry = Entry(root, width=50, bg="yellow", fg="black", borderwidth=10)
 userentry.pack()
 userentry.insert(0, "My Name is:  ")    # Place instructions in input box.
-                                            # But it will be included w/input.get()
+                                        # But it will be included w/input.get()
 #userentry.get()   # Capture the input. We will use this in the function
 # -----------------------------
 # This function = action for when a button is clicked.
