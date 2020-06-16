@@ -3,23 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="25783dec-1c33-4345-9829-b7c33ec03621" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dictionaries.py" beforeDir="false" afterPath="$PROJECT_DIR$/Dictionaries.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/INTERVIEW MAIN/FizzBuzz Interview.py" beforeDir="false" afterPath="$PROJECT_DIR$/INTERVIEW MAIN/FizzBuzz Interview.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/INTERVIEW MAIN/findNumbersWithEvenDigits.py" beforeDir="false" afterPath="$PROJECT_DIR$/INTERVIEW MAIN/findNumbersWithEvenDigits.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/INTERVIEW MAIN/findWordsTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/INTERVIEW MAIN/findWordsTree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/INTERVIEW MAIN/fizzBuzz.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/INTERVIEW MAIN/kthLargestNumber.py" beforeDir="false" afterPath="$PROJECT_DIR$/INTERVIEW MAIN/kthLargestNumber.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/INTERVIEW MAIN/lowestCommonAncestor.py" beforeDir="false" afterPath="$PROJECT_DIR$/INTERVIEW MAIN/lowestCommonAncestor.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/INTERVIEW MAIN/palindrome.py" beforeDir="false" afterPath="$PROJECT_DIR$/INTERVIEW MAIN/palindrome.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/INTERVIEW MAIN/reverseAstring.py" beforeDir="false" afterPath="$PROJECT_DIR$/INTERVIEW MAIN/reverseAstring.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tkinter/tkinter3_labels.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/tkinter3_labels.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tkinter/tkinter4_buttons.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/tkinter4_buttons.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tkinter/tkinter5_input.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/tkinter5_input.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tkinter/tkinter6_simpleCalculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tkinter/tkinter6_simpleCalculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/binaryTree.py" beforeDir="false" afterPath="$PROJECT_DIR$/binaryTree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bufferOverFlow.py" beforeDir="false" afterPath="$PROJECT_DIR$/bufferOverFlow.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/drawshapes.py" beforeDir="false" afterPath="$PROJECT_DIR$/drawshapes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/file_read.py" beforeDir="false" afterPath="$PROJECT_DIR$/file_read.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +32,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Tkinter" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -61,7 +44,7 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tkinter22_dropdownMenu2">
+  <component name="RunManager" selected="Python.ping">
     <configuration default="true" type="tests" factoryName="Attests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -123,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reverseinteger" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ping" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,11 +114,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/INTERVIEW MAIN" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/INTERVIEW MAIN/reverseinteger.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ping.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,11 +171,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.ping" />
         <item itemvalue="Python.tkinter22_dropdownMenu2" />
         <item itemvalue="Python.romanNumerals" />
         <item itemvalue="Python.dictionaries" />
         <item itemvalue="Python.palindrome" />
-        <item itemvalue="Python.reverseinteger" />
       </list>
     </recent_temporary>
   </component>
@@ -214,36 +197,28 @@
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
     <state x="606" y="346" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1583223451884" />
-    <state width="1659" height="211" key="GridCell.Tab.0.bottom" timestamp="1590565868778">
+    <state width="1659" height="211" key="GridCell.Tab.0.bottom" timestamp="1590989040496">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1419" height="153" key="GridCell.Tab.0.bottom/-57.-1027.1680.1027/0.23.1440.877@-57.-1027.1680.1027" timestamp="1582092998364" />
-    <state width="1419" height="232" key="GridCell.Tab.0.bottom/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582314056923" />
-    <state width="1659" height="211" key="GridCell.Tab.0.bottom/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1590565868778" />
+    <state width="1659" height="211" key="GridCell.Tab.0.bottom/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1590989040496" />
     <state width="1339" height="144" key="GridCell.Tab.0.bottom/0.23.1680.1027/149.-745.1360.745@149.-745.1360.745" timestamp="1583299187833" />
     <state width="1536" height="211" key="GridCell.Tab.0.bottom/0.23.1680.1027@0.23.1680.1027" timestamp="1590217630285" />
-    <state width="1659" height="211" key="GridCell.Tab.0.center" timestamp="1590565868777">
+    <state width="1659" height="211" key="GridCell.Tab.0.center" timestamp="1590989040495">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1419" height="153" key="GridCell.Tab.0.center/-57.-1027.1680.1027/0.23.1440.877@-57.-1027.1680.1027" timestamp="1582092998363" />
-    <state width="1419" height="232" key="GridCell.Tab.0.center/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582314056923" />
-    <state width="1659" height="211" key="GridCell.Tab.0.center/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1590565868777" />
+    <state width="1659" height="211" key="GridCell.Tab.0.center/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1590989040495" />
     <state width="1339" height="144" key="GridCell.Tab.0.center/0.23.1680.1027/149.-745.1360.745@149.-745.1360.745" timestamp="1583299187833" />
     <state width="1536" height="211" key="GridCell.Tab.0.center/0.23.1680.1027@0.23.1680.1027" timestamp="1590217630285" />
-    <state width="1659" height="211" key="GridCell.Tab.0.left" timestamp="1590565868777">
+    <state width="1659" height="211" key="GridCell.Tab.0.left" timestamp="1590989040495">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1419" height="153" key="GridCell.Tab.0.left/-57.-1027.1680.1027/0.23.1440.877@-57.-1027.1680.1027" timestamp="1582092998362" />
-    <state width="1419" height="232" key="GridCell.Tab.0.left/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582314056923" />
-    <state width="1659" height="211" key="GridCell.Tab.0.left/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1590565868777" />
+    <state width="1659" height="211" key="GridCell.Tab.0.left/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1590989040495" />
     <state width="1339" height="144" key="GridCell.Tab.0.left/0.23.1680.1027/149.-745.1360.745@149.-745.1360.745" timestamp="1583299187832" />
     <state width="1536" height="211" key="GridCell.Tab.0.left/0.23.1680.1027@0.23.1680.1027" timestamp="1590217630284" />
-    <state width="1659" height="211" key="GridCell.Tab.0.right" timestamp="1590565868778">
+    <state width="1659" height="211" key="GridCell.Tab.0.right" timestamp="1590989040496">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state width="1419" height="153" key="GridCell.Tab.0.right/-57.-1027.1680.1027/0.23.1440.877@-57.-1027.1680.1027" timestamp="1582092998363" />
-    <state width="1419" height="232" key="GridCell.Tab.0.right/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582314056923" />
-    <state width="1659" height="211" key="GridCell.Tab.0.right/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1590565868778" />
+    <state width="1659" height="211" key="GridCell.Tab.0.right/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1590989040496" />
     <state width="1339" height="144" key="GridCell.Tab.0.right/0.23.1680.1027/149.-745.1360.745@149.-745.1360.745" timestamp="1583299187833" />
     <state width="1536" height="211" key="GridCell.Tab.0.right/0.23.1680.1027@0.23.1680.1027" timestamp="1590217630285" />
     <state width="1643" height="340" key="GridCell.Tab.1.bottom" timestamp="1589685287249">
@@ -265,9 +240,7 @@
     <state x="301" y="205" key="SettingsEditor" timestamp="1583971749957">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="258" y="178" key="SettingsEditor/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582313599992" />
     <state x="301" y="205" key="SettingsEditor/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1583971749957" />
-    <state x="301" y="205" key="SettingsEditor/0.23.1680.1027@0.23.1680.1027" timestamp="1582324741956" />
     <state x="583" y="467" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1590544764650">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
@@ -279,7 +252,6 @@
     <state x="449" y="245" width="782" height="792" key="search.everywhere.popup" timestamp="1590542282194">
       <screen x="0" y="23" width="1680" height="1027" />
     </state>
-    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/-57.-1027.1680.1027/0.23.1440.877@0.23.1440.877" timestamp="1582178221457" />
     <state x="449" y="245" width="782" height="792" key="search.everywhere.popup/0.23.1680.1027/149.-745.1360.745@0.23.1680.1027" timestamp="1590542282194" />
   </component>
 </project>
