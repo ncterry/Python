@@ -1,0 +1,25 @@
+This folder 'NCTPython\Excel Reporting'
+
+-----A full working directory to display the many ways to use python
+to work with Excel.
+
+
+We have created certain files that are straight python
+We then started using JupyterLab which uses python notebooks.
+We can create those notebooks with their local python sections,
+or we can call original python files as well, as seen in "_RunAllPyFiles.ipynb"
+
+
+The starting data is coming from 'supermarket_sales.xlsx'
+
+This directory is then working in order from 1-6
+
+1.py calls that original spreadsheet
+
+Any result spreadsheets that 1...py creates is then labeled with 1...xlsx
+
+The same applies to all #...py and #....xlsx
+
+There are several of the #....py that call other #....xlsx
+
+
